@@ -8,4 +8,4 @@
 - 💬 Ask me about Asp.NET Core 
 - 📫 How to reach me: h.k409383429@gmail.com
 
-
+<img href="https://www.flaticon.com/free-icons/laptop" title="laptop icons"> Technical Tools:
