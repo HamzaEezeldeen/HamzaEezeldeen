@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me
 
 👋 Hi there 
 - 🔭 I am cuurently work on building a full-stack web application using ASP.NET Core
