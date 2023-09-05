@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with Application Development and System Architecture,Problem Solving,Coding and Programming
 - 💬 Ask me about Asp.NET Core 
 - 📫 How to reach me: h.k409383429@gmail.com
+- [My Resume](https://github.com/HamzaEezeldeen/My-Resume/blob/main/My%20Resume.pdf)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
