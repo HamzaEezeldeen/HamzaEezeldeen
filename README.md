@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate on Web Application Projects ASP.NET Core as well as contributing to open-source projects and learning from experienced developers 
 - 🤔 I’m looking for help with Application Development and System Architecture,Problem Solving,Coding and Programming
-- 💬 Ask me about Asp.NET Core 
+- 💬 Ask me about Asp.NET Core or React Js
 - 📫 How to reach me: h.k409383429@gmail.com
 - <img src="https://cdn-icons-png.flaticon.com/128/3135/3135692.png" height="25" width="25"/>[My Resume](https://github.com/HamzaEezeldeen/My-Resume/archive/refs/heads/main.zip)
 
