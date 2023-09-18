@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **h.k409383429@gmail.com**
 
-- 📄 Know about my experiences [](https://github.com/HamzaEezeldeen/My-Resume/archive/refs/heads/main.zip)
+- 📄 Know about my experiences [My CV](https://github.com/HamzaEezeldeen/My-Resume/archive/refs/heads/main.zip)
 
 
 
