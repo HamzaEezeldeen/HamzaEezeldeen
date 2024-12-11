@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Elkhatib</h1>
-<h3 align="center">A Full Stack Web Developer (Asp.NetCore & Angular )</h3>
+<h3 align="center">A Full Stack Web Developer (Asp.NetCore & ReactJS )</h3>
 
 - 🔭 I’m currently Studying **Software Engineer**
 
