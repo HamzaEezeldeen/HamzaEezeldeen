@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Elkhatib</h1>
 <h3 align="center">A Full Stack Web Developer (Asp.NetCore & ReactJS )</h3>
 
-- 🔭 I’m currently Studying **Software Engineer**
-
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on Web Application Projects ASP.NET Core as well as contributing to open-source projects and learning from experienced developers**
 
 - 🤝 I’m looking for help with **Application Development and System Architecture,Problem Solving,Coding and Programming**
