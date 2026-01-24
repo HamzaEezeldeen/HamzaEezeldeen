@@ -52,7 +52,7 @@ Designing and building scalable backend systems and full-stack .NET applications
 | **Blazor Dashboard** | Admin dashboard with dynamic components & charts | Blazor, ASP.NET Core, Chart.js |
 | **Ecommerce HTML Template** | Frontend template integration | HTML, CSS, JS |
 
-> *(Update featured projects as you add more Blazor / ASP.NET Core apps)*
+
 
 ---
 
