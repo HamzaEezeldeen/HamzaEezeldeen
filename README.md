@@ -1,45 +1,45 @@
 <h1 align="center">Hi 👋, I'm Hamza Elkhatib</h1>
 <h3 align="center">
-.NET Software Engineer | ASP.NET Core • Blazor
+Senior Full-Stack .NET Developer | ASP.NET Core & Backend Architect
 </h3>
 
 <p align="center">
-Designing and building scalable backend systems and full-stack .NET applications.
+Designing and building scalable backend systems, secure APIs, and production-ready full-stack applications.
 </p>
 
 ---
 
 ## 🚀 Professional Summary
 
-- 💼 **.NET Software Engineer** with strong expertise in **ASP.NET Core** and **Blazor**
-- 🧠 Solid background in **Backend Architecture, RESTful APIs, and Secure Authentication**
-- 🏗️ Experienced in building **production-ready systems** using **Clean Architecture**
-- 🎯 Delivering full-stack solutions with **Blazor Server & WebAssembly**
-- 🌍 Open to **Remote, Freelance, and Long-Term Opportunities**
+- 💼 **Full-Stack .NET Developer** with strong expertise in **ASP.NET Core**, **Clean Architecture**, and **Database Optimization**.
+- 🧠 Solid background in **Backend Architecture, RESTful APIs, JWT Authentication, and Secure Role-Based Authorization**.
+- 🏗️ Experienced in building **scalable, multi-tenant enterprise systems and SaaS platforms**.
+- 🎨 Full-stack capability: Specializing in **Blazor** for .NET apps, with working familiarity in modern frontend frameworks like **React and Angular**.
+- 🌍 Open to **Remote, Freelance, and Long-Term Opportunities**.
 
 ---
 
 ## 🛠️ Technical Expertise
 
-### Backend Engineering
+### Backend & Architecture
 - ASP.NET Core (Web API, MVC, Razor Pages)
-- Clean Architecture & SOLID Principles
-- JWT Authentication & Role-Based Authorization
-- REST API Design & Integration
-- SQL Server, Oracle
-- Error Handling, Validation, DTO Mapping
+- Clean Architecture, CQRS, MediatR, SOLID Principles
+- Entity Framework Core, LINQ, Database Design & Optimization
+- JWT Authentication, Refresh Tokens, RBAC & ASP.NET Core Identity
+- SignalR (Real-time communication), Background Services
 
-### Full-Stack (.NET)
-- Blazor Server & WebAssembly
-- Razor Components & Component-Based Design
-- State Management in Blazor
-- HTML, CSS, Bootstrap
+### Databases
+- PostgreSQL, SQL Server, MySQL
 
-### Development Workflow
-- Git & GitHub (Version Control & Branching)
+### Frontend Technologies
+- **Primary:** Blazor (Server & WebAssembly), HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6+), TypeScript, jQuery
+- **Familiarity & Integration:** React, Angular (building and integrating full-stack features when required)
+
+### Development Workflow & DevOps
+- Git & GitHub (Version Control, Branching, GitHub Actions CI/CD)
+- Docker (Containerization fundamentals)
 - Postman, Swagger (OpenAPI)
-- Visual Studio, VS Code
-- CI/CD fundamentals (GitHub Actions)
+- Visual Studio, JetBrains Rider, VS Code
 
 ---
 
@@ -47,19 +47,17 @@ Designing and building scalable backend systems and full-stack .NET applications
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **QRCode Generator API** | Generate QR codes dynamically for multiple apps | ASP.NET Core, C# |
-| **Minimal Web API** | Clean Architecture API with authentication & JWT | ASP.NET Core, C# |
-| **Blazor Dashboard** | Admin dashboard with dynamic components & charts | Blazor, ASP.NET Core, Chart.js |
-| **Ecommerce HTML Template** | Frontend template integration | HTML, CSS, JS |
-
-
+| **Monera Connect API** | Backend API for consultation & digital resources with Upayments gateway integration | ASP.NET Core (.NET 8), Clean Architecture, CQRS, PostgreSQL |
+| **QRCode App & Dashboard** | Multilingual admin dashboard & management system with Excel import & SignalR | .NET 8 Razor Pages, REST API, ClosedXML, DataTables |
+| **QRCode Generator API** | Dynamic QR code generation engine for enterprise applications | ASP.NET Core, C# |
+| **Blazor Dashboard** | Enterprise admin panel with dynamic components & charts | Blazor, ASP.NET Core, Chart.js |
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Collaboration & Availability
 
-- 👯 Available for **.NET / Blazor projects**
-- 💬 Open to discussions around **Backend Architecture, System Design, and Full-Stack Solutions**
+- 👯 Available for **.NET / Full-Stack projects & backend system development**.
+- 💬 Open to discussions around **Backend Architecture, Clean Code Standards, and Enterprise Solutions**.
 
 ---
 
